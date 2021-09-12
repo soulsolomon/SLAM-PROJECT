@@ -3,3 +3,9 @@ Mobile robot has the ability to localize itself using a method called EKF Locali
 
 https://user-images.githubusercontent.com/18420937/133001940-c8551dbf-cccd-424f-b940-845dac37f5d6.mp4
 
+## REFERENCES 
+[1] Thrun, Sebastian, Wolfram.Burgard, , and Dieter.Fox, “Probabilistic
+robotics,” Aaai/iaai 593598 (2002)., 2005.
+
+[2] R. Smith and P. Cheeseman, “On the representation and estimation of
+spatial uncertainty,” Int. Journal of Robotics Research, p. 56–68, 1987.
